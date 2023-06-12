@@ -1,0 +1,47 @@
+{
+  "name": "bewebdev-extension-pack",
+  "displayName": "bewebdev extension pack",
+  "description": "Most essential extensions for web development",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "akamud.vscode-javascript-snippet-pack",
+    "deinsoftware.arrow-function-snippets",
+    "dsznajder.es7-react-js-snippets",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "chunsen.bracket-select",
+    "clinyong.vscode-css-modules",
+    "dbaeumer.vscode-eslint",
+    "GitHub.vscode-pull-request-github",
+    "Huuums.vscode-fast-folder-structure",
+    "IronGeek.vscode-env",
+    "kamikillerto.vscode-colorize",
+    "mattpocock.ts-error-translator",
+    "me-dutour-mathieu.vscode-github-actions",
+    "meganrogge.template-string-converter",
+    "miguelsolorio.fluent-icons",
+    "mikestead.dotenv",
+    "mrmlnc.vscode-scss",
+    "ms-vscode-remote.remote-containers",
+    "paul-mannino.vscode-create-test-file",
+    "PKief.material-icon-theme",
+    "PKief.material-product-icons",
+    "purpleblack.electronic-moonlight-theme-borders",
+    "richie5um2.vscode-sort-json",
+    "rioukkevin.vscode-git-commit",
+    "streetsidesoftware.code-spell-checker",
+    "stylelint.vscode-stylelint",
+    "teledemic.branch-warnings",
+    "usernamehw.errorlens",
+    "vincaslt.highlight-matching-tag",
+    "VisualStudioExptTeam.intellicode-api-usage-examples",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "vunguyentuan.vscode-css-variables"
+  ]
+}
